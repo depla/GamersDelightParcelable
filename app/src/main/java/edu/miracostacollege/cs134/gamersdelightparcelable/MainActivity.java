@@ -16,6 +16,12 @@ import java.util.List;
 import edu.miracostacollege.cs134.gamersdelightparcelable.model.DBHelper;
 import edu.miracostacollege.cs134.gamersdelightparcelable.model.Game;
 
+/**
+ * MainActivity - Lets user add games to a list view and view game details by pressing a list item
+ *
+ * Dennis La
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = MainActivity.class.getSimpleName();
